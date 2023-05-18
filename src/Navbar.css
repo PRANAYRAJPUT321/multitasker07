@@ -1,0 +1,22 @@
+.navbar-container{
+    background-color: rgb(237, 230, 242);
+    padding: 10px;
+    margin-bottom: 5px;
+}
+.nav-menus{
+    margin-left: 10px;
+    margin-right: 10px;
+    background-color: rgb(228, 238, 170);
+    padding: 5px 15px;
+    text-decoration: none;
+    border-radius: 15px;
+    margin: 5px;
+    min-width: 150px;
+    text-align: center;
+    font-weight: bolder;
+    font-family: cursive;
+    font-size: 22px;
+}
+.nav-menus :hover{
+   transition: 1% blue; 
+}
