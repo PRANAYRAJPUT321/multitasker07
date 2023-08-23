@@ -1,0 +1,15 @@
+.footer {
+    background-color:rgb(247, 245, 248);
+    padding: 20px;
+    text-align: center;
+    height: 300px;
+    margin-top: 20px;
+  }
+  .main-heading2{
+    font-size: 30px;
+    font-family: cursive;
+    text-align: center;
+    color: rgb(19, 19, 19);
+    margin-top: 2px;
+    text-shadow: 5px 4px 6px black;
+}

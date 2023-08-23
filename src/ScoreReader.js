@@ -1,6 +1,7 @@
 import "./ScoreReader.css"
 import Navbar from "./Navbar";
 import {useState} from "react";
+import Footer from "./Footer";
 function ScoreReader() {
  
   const [scoreA, setScoreA] = useState(0);
@@ -43,6 +44,7 @@ function ScoreReader() {
 
      
      </div>
+     <Footer/>
 
     </div>
   )
