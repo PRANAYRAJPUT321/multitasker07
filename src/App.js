@@ -17,7 +17,7 @@ import QuotesGenerator from "./QuotesGenerator"
 import Footer from "./Footer";
 function App() {
   return(
-  <> 
+  <>
   <BrowserRouter>
   <Routes>
     <Route path="/" element={< Home/>}/>
